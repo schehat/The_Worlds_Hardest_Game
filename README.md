@@ -1,5 +1,5 @@
-# The_Worlds_Hardest_Game
-A small project realized during university at Hochschule Hannover
+# the worlds hardest game
+A small game realized in JavaFX during university at Hochschule Hannover
 
 Controls:
 > - w, a, s, d: move
